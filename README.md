@@ -28,3 +28,5 @@ To use it you need the following things in your project:
 - To have the Setup block as the first block in the project
 
 Thats it.
+### Contributing
+If you have modified it in any way and think t is better than the currently released version, Just send it to me and I will post it as a release.
