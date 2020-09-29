@@ -15,7 +15,8 @@ VRVex-Base is a base project for https://vr.vex.com/ that includes basic feature
 ### Setup
 
 1. Goto https://vr.vex.com/
-2. Click "Load from your device" (You need to download the base project first) Also you need to unzip the .zip file, the file to select is VRVEX-Base-1.3.2.vrblocks
+2. Click "Load from your device" (You need to download the base project first) Also you need to unzip the .zip file, the file to select is VRVEX-Base-LATESTVERSION.vrblocks
+![Screenshot](https://raw.githubusercontent.com/Z3R0-cmd/VRVex-Base/master/Screenshot%202020-09-28%20182533.png)
 3. Find the file you downloaded in the file manager and click open.
 4. Done.
 
