@@ -1,26 +1,15 @@
 # VRVex-Base
 
-VRVex-Base is a base project for https://vr.vex.com/ that includes basic features such as:
-
-- Allowing you to use minutes instead of seconds for the wait function
-- Turn Left/Right as separate blocks
-- Turn a certain amount of degrees after a delay
-- Shutdown
-- A "quit driving after delay"
-- Allows you to use 'spaces' instead of millimeters. This is mainly for the grid format
-- "completely Spaz Out" if you want some fun.
-
 
 
 ### Setup
 
 1. Goto https://vr.vex.com/
-2. Click "Load from your device" (You need to download the base project first) Also you need to unzip the .zip file, the file to select is VRVEX-Base-LATESTVERSION.vrblocks
-![Screenshot](https://raw.githubusercontent.com/Z3R0-cmd/VRVex-Base/master/Screenshot%202020-09-28%20182533.png)
-3. Find the file you downloaded in the file manager and click open.
-4. Done.
+2. Download the file: VRVEX-Base-[VERSION.vrblocks] from the releases page.
+3. Click on the "Load From Your Device" button on the webpage.![Screenshot](https://raw.githubusercontent.com/Z3R0-cmd/VRVex-Base/master/Screenshot%202020-09-28%20182533.png)
 
-
+4. Find the file you downloaded
+5. Modify the code or just play around with it. (Start your project here)
 
 ### Using it
 
@@ -30,6 +19,8 @@ To use it you need the following things in your project:
 
 ![Screenshot](https://raw.githubusercontent.com/Z3R0-cmd/VRVex-Base/master/Screenshot%202020-09-28%20191710.png)
 
-Thats it.
+That's it.
+
 ### Contributing
-If you have modified it in any way and think t is better than the currently released version, Just send it to me and I will post it as a release.
+
+If you have modified it in any way and think it is better than the currently released version, Just send it to me and I might post it as a release.
